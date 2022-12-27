@@ -17,3 +17,6 @@
  - FUNCTION
  - TRIGGER
  - PACKAGE
+
+## HR DIAGRAM
+![hr_oracle](https://user-images.githubusercontent.com/98910348/209659055-9061e10e-2eeb-4af3-9317-77d6835168ce.png)
